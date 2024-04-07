@@ -1,5 +1,3 @@
-### about:
-- aspiring developer
-- likes good photos of flowers
 - loves silly cat photos
-- learning how to use this stuff
+- enjoys colorful nature photos
+- trying to learn how to use this stuff
